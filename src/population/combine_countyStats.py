@@ -20,9 +20,8 @@ store_features = []
 ######################################################################################
 #Create a dict of headers found in the datasets.
 dataCategoryKeys = [
-	'POPESTIMATE', 'DOMESTICMIG', 
-    'INTERNATIONALMIG', 'NETMIG',
-	'BIRTHS', 'DEATHS']
+	'POPESTIMATE', 'DOMESTICMIG', 'INTERNATIONALMIG',
+	'NETMIG', 'BIRTHS', 'DEATHS']
 
 yearStart = 2010
 yearEnd = 2024
